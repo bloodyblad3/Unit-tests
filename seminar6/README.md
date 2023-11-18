@@ -1,4 +1,5 @@
 # Промежуточная аттестация
+[**docx format**](https://docs.google.com/document/d/1B5ZwB3QrrP5WqoKWKvjXjNaqI0RDw7pm5YGTMdYwaRk/edit?usp=sharing)
 ## Задание 1. Создайте программу на Python или Java, которая принимает два списка чисел и выполняет следующие действия:
 
 a. Рассчитывает среднее значение каждого списка.
