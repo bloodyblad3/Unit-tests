@@ -21,9 +21,13 @@ b. Сравнивает эти средние значения и выводит
 - [Код программы](https://github.com/externalcharm/Unit-tests/blob/main/seminar6/avg_comparator.py)
 - [Код тестов](https://github.com/externalcharm/Unit-tests/blob/main/seminar6/test_avg_comparator.py)
 - Отчет pylint
+
 ![pylint](images/pytest.jpg)
+
 - Отчет о покрытии тестами
+
 ![cover](images/cover.jpg)
+
 - В тестах были рассмотрены различные сценарии, чтобы удостовериться, что программа работает правильно в различных ситуациях:
 
 1. **test_compare_averages_first_list_greater:** Проверяет случай, когда среднее значение первого списка больше среднего значения второго списка.
